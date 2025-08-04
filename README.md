@@ -87,5 +87,6 @@ API позволяет выполнять поиск и фильтрацию о�
 
 В случае вопросов обращайтесь к разработчику:
 
-- Email: <ufamasters102@gmail.com>
-- GitHub: <https://github.com/ScriptSinger>
+- Email: [ufamasters102@gmail.com](mailto:ufamasters102@gmail.com)
+- GitHub: [ScriptSinger](https://github.com/ScriptSinger)
+- Telegram: [@heturion](https://t.me/heturion)
